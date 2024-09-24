@@ -25,7 +25,7 @@ git clone https://github.com/juliano340/calculadora_ada
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd calculadora-nodejs
+cd calculadora-ada
 ```
 
 ## Uso
